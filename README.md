@@ -1,4 +1,4 @@
-# ComfyUI_Workflows
+# ComfyUI Workflows
 Basic Stable Diffusion Workflows for ComfyUI using minimal custom nodes
 
 # Workflows
