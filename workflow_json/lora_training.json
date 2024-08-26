@@ -1,0 +1,47 @@
+{
+  "last_node_id": 4,
+  "last_link_id": 0,
+  "nodes": [
+    {
+      "id": 3,
+      "type": "Lora Training in ComfyUI",
+      "pos": [
+        642,
+        334
+      ],
+      "size": {
+        "0": 315,
+        "1": 226
+      },
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "properties": {
+        "Node name for S&R": "Lora Training in ComfyUI"
+      },
+      "widgets_values": [
+        "sd_xl_refiner_1.0.safetensors",
+        "C:\\temp\\memory",
+        1,
+        400,
+        100,
+        "jovanka1",
+        2,
+        "models/loras"
+      ]
+    }
+  ],
+  "links": [],
+  "groups": [],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 1.2100000000000006,
+      "offset": [
+        -413.8667240656237,
+        198.81427725222827
+      ]
+    }
+  },
+  "version": 0.4
+}
